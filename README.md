@@ -94,4 +94,4 @@ Stock prices are fetched from Yahoo Finance and may be delayed. For real-time tr
 
 ## Contact
 Project Link: https://github.com/ellenvlimnauaw/ReStock
-Email: ellenvlimanauw@gmail.com
+<br>Email: ellenvlimanauw@gmail.com
